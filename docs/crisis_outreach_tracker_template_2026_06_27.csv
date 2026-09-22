@@ -1,0 +1,8 @@
+segment,name,organization,role,city,contact_channel,contact_url,priority,status,last_touch,next_touch,offer_sent,money_signal,next_action,notes
+local_partner,,,,,telegram,,high,new,,,pilot_no_prepayment,none,send_first_message,
+local_partner,,,,,phone,,high,new,,,pilot_no_prepayment,none,send_first_message,
+local_partner,,,,,email,,medium,new,,,pilot_no_prepayment,none,send_first_message,
+tourist_community,,,,,telegram,,high,new,,,route_help_donation,none,send_first_message,
+support_community,,,,,telegram,,medium,new,,,support_project,none,send_personal_message,
+external_paid_work,,,,,telegram,,high,new,,,flutter_supabase_short_task,none,send_paid_work_message,
+external_paid_work,,,,,email,,medium,new,,,flutter_supabase_short_task,none,send_paid_work_message,

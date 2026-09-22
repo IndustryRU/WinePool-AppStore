@@ -1,0 +1,3 @@
+name,organization,city,source_url,contact_channel,contact_value,has_tasting,accepts_groups,scale,priority,notes
+Пример малая винодельня,Пример малая винодельня,Бахчисарай,https://example.com,telegram_or_phone,+7 978 000-00-00,yes,yes,small,high,"Есть дегустации и быстрый контакт"
+Пример крупная винодельня,Пример крупная винодельня,Севастополь,https://example.org,email,info@example.org,yes,unknown,large,medium,"Крупный бренд; возможны согласования"
